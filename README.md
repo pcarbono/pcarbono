@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pcarbono@gmail.com**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **NodeJS**
 
 - Find me: [Upwork](https://www.upwork.com/freelancers/~01b555054c6036cdbc?viewMode=1)
 
@@ -25,6 +25,7 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
       <img src= "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="node" **alt="node" width="40" height="40"/>
       <img src= "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40"/>
+        <img src= "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" **alt="react" width="40"/>
 </div>
   
 ---
